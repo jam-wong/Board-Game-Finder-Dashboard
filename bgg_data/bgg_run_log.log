@@ -1,0 +1,118 @@
+2018-03-31 23:30:08,049 [INFO]: controller.py(main:13) 
+Starting controller.py module
+
+2018-03-31 23:30:09,213 [INFO]: controller.py(main:16) 
+User input '1'. Scraping 1 page(s)
+
+2018-03-31 23:30:09,917 [INFO]: controller.py(main:20) 
+User entered 'n': NOT replacing existing images
+
+2018-03-31 23:30:09,917 [INFO]: controller.py(main:24) 
+ === Running Python scripts === 
+
+2018-03-31 23:30:09,917 [INFO]: scrape_game_ids.py(main:38) 
+Starting scrape_game_ids.py script
+
+2018-03-31 23:30:14,496 [INFO]: scrape_game_ids.py(write_ids_list_to_csv:34) 
+Writing 100 boardgame ids to file
+
+
+2018-03-31 23:30:14,500 [INFO]: get_game_info.py(main:104) 
+Starting get_game_info.py script
+
+2018-03-31 23:32:27,523 [INFO]: controller.py(main:13) 
+Starting controller.py module
+
+2018-03-31 23:32:28,489 [INFO]: controller.py(main:16) 
+User input '1'. Scraping 1 page(s)
+
+2018-03-31 23:32:30,220 [INFO]: controller.py(main:20) 
+User entered 'n': NOT replacing existing images
+
+2018-03-31 23:32:30,220 [INFO]: controller.py(main:24) 
+ === Running Python scripts === 
+
+2018-03-31 23:32:30,220 [INFO]: scrape_game_ids.py(main:38) 
+Starting scrape_game_ids.py script
+
+2018-03-31 23:32:34,719 [INFO]: scrape_game_ids.py(write_ids_list_to_csv:34) 
+Writing 100 boardgame ids to file
+
+
+2018-03-31 23:32:34,734 [INFO]: get_game_info.py(main:104) 
+Starting get_game_info.py script
+
+2018-03-31 23:33:36,068 [INFO]: get_game_info.py(write_board_game_info_list_to_csv:100) 
+Writing 100 boardgame data to csv
+
+
+2018-03-31 23:33:36,078 [INFO]: download_board_game_images.py(main:30) 
+Starting download_board_game_images.py script
+
+2018-03-31 23:33:36,622 [INFO]: controller.py(main:29) 
+ === Running R script === 
+
+2018-04-01 00:11:05,312 [INFO]: controller.py(main:13) 
+Starting controller.py module
+
+2018-04-01 00:11:07,075 [INFO]: controller.py(main:16) 
+User input '1'. Scraping 1 page(s)
+
+2018-04-01 00:11:08,040 [INFO]: controller.py(main:22) 
+User entered 'y': Replacing existing images
+
+2018-04-01 00:11:08,040 [INFO]: controller.py(main:24) 
+ === Running Python scripts === 
+
+2018-04-01 00:11:08,040 [INFO]: scrape_game_ids.py(main:38) 
+Starting scrape_game_ids.py script
+
+2018-04-01 00:11:12,951 [INFO]: scrape_game_ids.py(write_ids_list_to_csv:34) 
+Writing 100 boardgame ids to file
+
+
+2018-04-01 00:11:12,960 [INFO]: get_game_info.py(main:104) 
+Starting get_game_info.py script
+
+2018-04-01 00:12:17,943 [INFO]: get_game_info.py(write_board_game_info_list_to_csv:100) 
+Writing 100 boardgame data to csv
+
+
+2018-04-01 00:12:17,959 [INFO]: download_board_game_images.py(main:30) 
+Starting download_board_game_images.py script
+
+2018-04-01 00:12:51,493 [INFO]: controller.py(main:29) 
+ === Running R script === 
+
+2018-04-01 00:16:13,530 [INFO]: controller.py(main:13) 
+Starting controller.py module
+
+2018-04-01 00:16:14,520 [INFO]: controller.py(main:16) 
+User input '1'. Scraping 1 page(s)
+
+2018-04-01 00:16:15,196 [INFO]: controller.py(main:20) 
+User entered 'n': NOT replacing existing images
+
+2018-04-01 00:16:15,197 [INFO]: controller.py(main:24) 
+ === Running Python scripts === 
+
+2018-04-01 00:16:15,197 [INFO]: scrape_game_ids.py(main:38) 
+Starting scrape_game_ids.py script
+
+2018-04-01 00:16:20,441 [INFO]: scrape_game_ids.py(write_ids_list_to_csv:34) 
+Writing 100 boardgame ids to file
+
+
+2018-04-01 00:16:20,446 [INFO]: get_game_info.py(main:104) 
+Starting get_game_info.py script
+
+2018-04-01 00:17:24,740 [INFO]: get_game_info.py(write_board_game_info_list_to_csv:100) 
+Writing 100 boardgame data to csv
+
+
+2018-04-01 00:17:26,908 [INFO]: download_board_game_images.py(main:30) 
+Starting download_board_game_images.py script
+
+2018-04-01 00:17:27,448 [INFO]: controller.py(main:29) 
+ === Running R script === 
+

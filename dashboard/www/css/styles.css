@@ -1,0 +1,127 @@
+
+#columns {
+   display: block;
+   display: -webkit-flex;
+   display: -moz-flex;
+   display: flex;
+   -webkit-align-items: center;
+   -webkit-moz-items: center;
+   align-items: center;
+   -webkit-justify-content: center;
+   -moz-justify-content: center;
+   justify-content: center;
+   -webkit-flex-direction: row;
+   -moz-flex-direction: row;
+   flex-direction: row;
+   -webkit-flex-wrap: wrap;
+   -moz-flex-wrap: wrap;
+   flex-wrap: wrap;
+   -webkit-flex-flow: row wrap;
+   -moz-flex-flow: row wrap;
+   flex-flow: row wrap;
+   -webkit-align-content: flex-end;
+   -moz-align-content: flex-end;
+   align-content: flex-end;
+}
+
+#columns .box {
+  width: 233px;
+  height: 233px;
+  border-top: None;
+  margin: 7px;
+}
+
+.game-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  line-height: 16px;
+  padding-right: 10px;
+  line-height: 125%;
+}
+
+div.box-display-name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 215px;
+  line-height: 125%;
+}
+
+#columns .image-wrap {
+  margin-left: -10px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  width: 233px;
+  height: 157px;
+  overflow:hidden;
+  box-sizing: border-box;
+}
+
+.image-wrap .tooltiptext {
+    visibility: hidden;
+    width: 255px;
+    height: 100%;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: fixed;
+    z-index: 1000000;
+    top: 0px;
+    left: 0px;
+    margin-left: 0px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.image-wrap:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.fixed-height{
+  height: 157px;
+  vertical-align: middle;
+}
+
+.fixed-width{
+  vertical-align: middle;
+  width: 235px;
+}
+
+.small-box .icon-large {
+  right:25px;
+}
+
+.gamehonors .honorstooltip {
+    visibility: hidden;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: relative;
+    z-index: 1000000;
+    top: 0px;
+    left: 0px;
+    margin-left: 0px;
+    opacity: 0;
+    transition: opacity 0s;
+}
+
+.gamehonors:hover .honorstooltip{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.sidebar {
+    color: #FFF;
+    position: fixed;
+    width: 207px;
+    white-space: nowrap;
+    overflow: visible;
+    line-height: 1.5;
+}
