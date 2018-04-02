@@ -5,4 +5,4 @@ Link to dashboard:
  https://jamwong.shinyapps.io/board-game-finder/
 
 
- ![screenshot text test](https://github.com/jam-wong/Board-Game-Finder-Dashboard/blob/master/screenshot.jpg)
+ ![screenshot text test](screenshot.jpg)
